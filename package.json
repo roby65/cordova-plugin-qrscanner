@@ -80,4 +80,7 @@
       "helpMessage": "\nThis project uses commitizen to document changes. Please try:\nnpm install commitizen -g && git cz\n"
     }
   }
+  ,"overrides": {
+    "graceful-fs": "^4.2.10"
+  }
 }
